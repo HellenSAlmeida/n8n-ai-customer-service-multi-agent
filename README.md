@@ -179,7 +179,7 @@ O workflow foi desenhado para ser modular. Novos agentes podem ser adicionados c
 **Hellen Santos**
 Engenheira de Automação & AI | HS Technology
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hellen%20Santos-blue?logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/hellen-santos-de-almeida/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hellen%20Santos-blue?logo=linkedin)]([https://www.linkedin.com/in/hellen-santos-de-almeida/])
 [![GitHub](https://img.shields.io/badge/GitHub-hellensantos-black?logo=github)](https://github.com/hellensantos)
 
 ---
